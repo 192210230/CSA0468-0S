@@ -20,3 +20,23 @@ DAY-2:-
 7)Product Consumer(Synchronisation)
 8)Dinning philospher(Synchronisation)
 9)Message Queue(IPC)
+
+DAY-3:-
+1)Classical Synchronisation problem solution
+2)Reader-Writer Problem
+3)First Fit
+4)Best Fit
+5)Worst Fit
+6)Thread Join
+7)Thread Create
+8)Thread Equal
+9)Thread Exit
+
+DAY-4:-
+1)File allocation strategy(Linked Allocation)
+2)File allocation strategy(Index Block)
+3)File allocation strategy(Physically and logically)
+4)Disk Scheduling(FCFS)
+5)Disk Scheduling(SCAN)
+6)Disk Scheduling(C-SCAN)
+7)File Access Permissions
