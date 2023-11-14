@@ -7,8 +7,8 @@ DAY-1:-
 4)SJF(preemptive)
 5)SJF(non preemptive)
 6)RR(non-preemptive)
-7)Priority Scheduling(preemptive)
-8)Priority Scheduling(non-preemptive)
+7)Priority Scheduling(Highest value)
+8)Priority Scheduling(Small value)
 
 DAY-2:-
 1)Shared memory(IPC)
